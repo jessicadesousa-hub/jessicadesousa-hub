@@ -8,6 +8,6 @@
 
 - 🚀 Currently mastering **Logic & Algorithms** and transitioning to **Java**.
 - 🧠 Passionate about problem-solving and clean code.
-- 📚 Training and certifications via [@cursoemvideo](https://github.com) ([@gustavoguanabara](https://github.com)).
+- 📚 Training and certifications via [@cursoemvideo](https://github.com) ([@gustavoguanabara](https://github.com)) and Santander Open Academy.
 
 
